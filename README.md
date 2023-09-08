@@ -16,7 +16,9 @@
   <img align="center" alt="Karol-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Karol-Canvas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
   <img align="center" alt="Karol-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Karol-Vscode" height="30" width="40" src="https://icon-library.com/images/react-icon/react-icon-29.jpg" />
   <img align="right" alt="Karol-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/45/e7/a7/45e7a775b18bd6cf014ae1cb22e53dc1.jpg">
+
  
 </div>
   
