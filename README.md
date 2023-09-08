@@ -6,7 +6,7 @@
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
 </div><br>
 
-<p align='justify'>Sou formada em <b>Serviço Social</b> pela UERN (2022) e atualmente atuo no cargo de atendente de suporte na Bee Delivery. Na área da programação comecei pelo <b>Python</b> e <b>logíca de programação</b>, criei um bot na linguagem, mas atualmente estou focando em Javascript, com isso comecei a estudar sobre React, Bootstrap, HTML, CSS, NextJS também.
+<p align='justify'>Sou formada em <b>Serviço Social</b> pela UERN (2022) e atualmente atuo no cargo de atendente de suporte na Bee Delivery. Na área da programação comecei pelo <b>Python</b> e <b>logíca de programação</b>, criei um bot na linguagem, mas atualmente estou focada em Javascript, com isso comecei a estudar sobre React, Bootstrap, HTML, CSS, NextJS também, também já consegue criar alguns projetos, que inclusive estão aqui.
 </p>
 
 <div style="display: inline_block"><br>
