@@ -6,7 +6,13 @@
   <b>"Tudo o que eu falo é de verdade. Na minha idade, a verdade é a minha liberdade" - Antonio Abujamra</b>
 </div><br>
 
-<p align='justify'>Sou formada em <b>Serviço Social</b> pela UERN (2022) e atualmente atuo no cargo de atendente de suporte na Bee Delivery. Na área da programação comecei pelo <b>Python</b> e <b>logíca de programação</b>, criei um bot na linguagem, mas atualmente estou focada em Javascript, com isso comecei a estudar sobre React, Bootstrap, HTML, CSS, NextJS também, também já consegue criar alguns projetos, que inclusive estão aqui.
+<p align='justify'>Sou graduada em Serviço Social pela UERN (2022) e atualmente trabalho como atendente de suporte na Bee Delivery. Embora minha formação seja em Serviço Social, tenho me dedicado à transição de carreira, especialmente na área de programação.
+
+Iniciei minha jornada com Python e lógica de programação, chegando à criação de um bot nesta linguagem. Atualmente, estou focada no desenvolvimento em Javascript, aprofundando meus conhecimentos em tecnologias como React, Bootstrap, HTML, CSS e NextJS. Além disso, adquiri experiência prática ao concluir projetos significativos que estão disponíveis para visualização.
+
+Tenho habilidades em Python, incluindo o uso do Flask, e conhecimentos em MySQL e Bootstrap. Estou entusiasmada com as oportunidades que a programação oferece e continuo buscando maneiras de aprimorar e aplicar meus conhecimentos nesta área dinâmica.
+
+Os projetos que desenvolvi até agora refletem meu comprometimento e dedicação ao aprendizado contínuo. Estou ansiosa para contribuir ativamente no universo da programação, alinhando minha experiência em Serviço Social a novos desafios e conquistas nesta emocionante transição de carreira.
 </p>
 
 <div style="display: inline_block"><br>
